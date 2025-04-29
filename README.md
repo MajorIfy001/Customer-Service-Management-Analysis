@@ -1,5 +1,5 @@
 # 📞Customer Service Management Analysis Dashboard
-A Power BI dashboard project for analyzing a 32key metrics in customer service operations. This solution helps organizations track call volumes, operator performance, issue resolution, and service quality on a daily basis.
+A Power BI dashboard project for analyzing a 31- days key metrics in customer service operations. This solution helps organizations track call volumes, operator performance, issue resolution, and service quality on a daily basis.
 
 ## 📌Overview
 
